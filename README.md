@@ -2,7 +2,7 @@
 Esse é um Backend em Python, elaborado durante a pós graduação, com o objetivo de auxiliar no gerenciamento de contas a pagar.
 
 ---
-##Como executar
+## Como executar
 
 Será necessário ter o Python instalado em seu ambiente e executar o seguinte comando
 
