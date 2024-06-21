@@ -14,7 +14,7 @@ pip install Flask Flask-SQLAlchemy flask-marshmallow pyjwt marshmallow-sqlalchem
 
 Este comando instala todas as bibliotecas necessárias para executar a api.
 
-Porem antes de executar a api é necessario ter o Frontend baixado em seu computador e o banco de dados.
+Porém antes de executar a api é necessário ter o Frontend baixado em seu computador e o banco de dados.
 
 > O banco de dados está em formato SQL e fica dentro da pasta database/BILLMANAGER.sql
 
